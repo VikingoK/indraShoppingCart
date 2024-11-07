@@ -22,6 +22,7 @@ spring:
 ```
 
 # script BD
+```
 
 -- public.in_products definition
 -- DROP TABLE public.in_products;
@@ -57,3 +58,4 @@ CREATE TABLE public.in_shopping_cart (
 -- public.in_shopping_cart foreign keys
 
 ALTER TABLE public.in_shopping_cart ADD CONSTRAINT in_shopping_cart_in_products_fk FOREIGN KEY (id_product) REFERENCES public.in_products(id);
+```
