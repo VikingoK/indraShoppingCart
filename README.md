@@ -59,3 +59,5 @@ CREATE TABLE public.in_shopping_cart (
 
 ALTER TABLE public.in_shopping_cart ADD CONSTRAINT in_shopping_cart_in_products_fk FOREIGN KEY (id_product) REFERENCES public.in_products(id);
 ```
+<img width="411" alt="Captura de pantalla 2024-11-07 a la(s) 2 57 44 p m" src="https://github.com/user-attachments/assets/142c87e0-1433-44fb-be29-bf595b2d493e">
+
