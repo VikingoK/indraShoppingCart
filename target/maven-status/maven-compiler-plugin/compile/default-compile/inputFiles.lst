@@ -1,0 +1,15 @@
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/controller/ProductController.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/repository/ProductRepository.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/repository/ShoppingCartRepository.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/service/impl/ProductService.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/ServletInitializer.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/IndraTechnicalEvaluationApplication.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/service/impl/ShoppingService.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/dto/ShoppingDto.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/service/IShoppingService.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/service/IProductService.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/controller/ShoppingController.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/model/ShoppingCartEntity.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/dto/SeeShoppingDto.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/config/SwaggerConfig.java
+/Users/kdepicas/Desarrollo/indra/demo/src/main/java/com/indra/technical/demo/model/ProductEntity.java
